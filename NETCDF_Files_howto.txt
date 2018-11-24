@@ -20,4 +20,4 @@ The program and source are available from https://github.com/jllodra/ncdump-json
 
 Also:
 
-QGIS
+QGIS with the NETcdf Browser plugin
