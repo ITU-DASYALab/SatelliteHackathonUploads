@@ -1,4 +1,4 @@
-## What is NETCDF?
+## What is NETCDF? and GRIB?
 
 https://en.wikipedia.org/wiki/NetCDF
 
@@ -7,6 +7,13 @@ https://en.wikipedia.org/wiki/NetCDF
 The Python programming language can access netCDF files with the PyNIO[13] module 
 (which also facilitates access to a variety of other data formats). 
 netCDF files can also be read with the Python module netCDF4-python,[14] and into a pandas-like DataFrame with the xarray module.[15]
+
+http://www.pyngl.ucar.edu/Nio.shtml
+
+http://unidata.github.io/netcdf4-python/
+
+
+software overview:
 
 https://www.unidata.ucar.edu/software/netcdf/software.html#freely
 
