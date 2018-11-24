@@ -1,0 +1,23 @@
+## What is NETCDF?
+
+https://en.wikipedia.org/wiki/NetCDF
+
+## What software can i use to read or convert NETCDF data?
+
+The Python programming language can access netCDF files with the PyNIO[13] module 
+(which also facilitates access to a variety of other data formats). 
+netCDF files can also be read with the Python module netCDF4-python,[14] and into a pandas-like DataFrame with the xarray module.[15]
+
+https://www.unidata.ucar.edu/software/netcdf/software.html#freely
+
+Note for example:
+
+JSON format with the ncdump-json utility
+Josep Llodrà has developed a program to output the contents of a netCDF-3 or netCDF-4 file in JSON (JavaScript Object Notation). 
+It is based on Unidata's NCDUMP utility, and it keeps the original ncdump functionality, 
+unless the "-j" option is used to specify JSON output.
+The program and source are available from https://github.com/jllodra/ncdump-json . 
+
+Also:
+
+QGIS
